@@ -15,6 +15,10 @@ export default {
 </script>
 
 <style>
+  * {
+    color: #0B3842;
+  }
+
   html {
     font-family: 'Open Sans', ;
   }

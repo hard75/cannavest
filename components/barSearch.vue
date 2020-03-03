@@ -106,7 +106,7 @@ export default {
     }
 
     .search-input input {
-        height: 30px;
+        height: 54px;
         font-family: 'Open Sans';
         background-color: #EDEDEE;
 

@@ -2,13 +2,16 @@
 <template>
   <div>
     <barSearch />
+    <databar />
   </div>
 </template>
 <script>
   import barSearch from '@/components/barSearch';
+  import databar from '@/components/databar';
   export default {
     components: {
-      barSearch
+      barSearch,
+      databar
     }
   }
 </script>
