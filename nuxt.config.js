@@ -23,6 +23,9 @@ export default {
         crossorigin: "anonymous" 
       },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { src: "https://code.jquery.com/jquery-2.2.4.min.js" }
     ]
   },
   /*

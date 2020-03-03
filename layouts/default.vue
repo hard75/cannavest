@@ -1,8 +1,18 @@
 <template>
   <div class="general-margin">
+    <mainMenu />
     <nuxt />
   </div>
 </template>
+
+<script>
+import mainMenu from '@/components/mainMenu'
+export default {
+  components: {
+    mainMenu
+  }
+}
+</script>
 
 <style>
   html {
