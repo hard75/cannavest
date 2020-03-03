@@ -84,7 +84,7 @@ export default {
         padding: 10px;
         height: 30px;
 
-        font-family: 'Open Sans', ;
+        font-family: "adobe-clean", sans-serif;
     }
 
     .dropdown .select span {

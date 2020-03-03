@@ -72,7 +72,7 @@ export default {
     }
 
     .databar .title {
-        font-size: 50px;
+        font-size: 48px;
         font-weight: bold;
     }
 

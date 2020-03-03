@@ -20,7 +20,7 @@ export default {
   }
 
   html {
-    font-family: 'Open Sans', ;
+    font-family: "adobe-clean", sans-serif;
   }
 
   .general-margin {
