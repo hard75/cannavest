@@ -36,7 +36,7 @@
             </div>
 
             <div class="title">
-                 <span>6834 m<SUP>2</SUP></span>
+                 <span style="color:#00AB81;">6834 m<SUP style="color:#00AB81;">2</SUP></span>
                  /
                  <span>9502 m<SUP>2</SUP></span>
             </div>
