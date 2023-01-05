@@ -19,7 +19,7 @@
     "chart.js": "^2.9.3",
     "chartjs": "^0.3.24",
     "element-ui": "^2.4.11",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-fontawesome": "^0.4.0"
   },
   "devDependencies": {}
